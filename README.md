@@ -28,13 +28,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-*Communication*
-*Adaptable*
-*Team-player*
-*Creative*
-*Energetic*
-*Enthusiastic*
-*Attentive*
+*Communication*  
+*Adaptable*  
+*Team-player*  
+*Creative*  
+*Energetic*  
+*Enthusiastic*  
+*Attentive*  
 
 ## Education
 
