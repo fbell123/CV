@@ -1,5 +1,7 @@
 ## Frankie Bell
 
+[Skills]#skills | [Projects]#projects | [Education]#education | [Experience]#experience | [Interests]#interests
+
 I am an enthusiastic and outgoing full stack junior developer.
 
 
@@ -42,8 +44,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ***Attentive*** - Read it backwards to make sure there are no errors  
 
 ## Projects
-Project | Description | Timeframe | Technologies | Testing
-------------- | ----------- | --------------------- | ------------ | -------
+Project | Description | Technologies | Testing
+------------- | ----------- | ------------ | -------
+[Haysta:k](https://github.com/fbell123/haystak) | Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery | 
 
 ## Education
 
