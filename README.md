@@ -3,7 +3,6 @@
 I am an enthusiastic and outgoing full stack junior developer.
 
 
-
 I'm looking for a role in which I can delve deeper into expanding my coding knowledge, learn new languages and create fully functional, tested and beautifully designed programmes which are reusable and expansive.
 
 
@@ -11,7 +10,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+<!-- #### This Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -26,15 +25,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-*Communication*  
-*Adaptable*  
-*Team-player*  
-*Creative*  
-*Energetic*  
-*Enthusiastic*  
-*Attentive*  
+*Communicator* - Customer service and being an account manager have solidified my written and verbal communication skills   
+*Adaptable* - Problems provide opportunities to gain a better understanding of what I do not know  
+*Team-player* - As an avid hockey player I love to lead or be led, I was previously Chairman of our University team for 2 years  
+*Creative* - With an advertising degree and marketing background I have found there is always another way to solve a problem   
+*Energetic* - I do not class myself as a morning person or a night owl, more both! I rarely have days where I am too tired to do much  
+*Enthusiastic* - I love to take on new challenges whatever they may be and where they are   
+*Attentive* - Read it backwards to make sure there are no errors  
 
 ## Education
 
@@ -46,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Independent learner and problem-solver
 - OOP, TDD, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript
+- Ruby, Rails, Javascript, JQuery, Ajax, CSS, HTML, SQL
 - Rspec, Jasmine, Mocha
 
 #### Staffordshire University (Sept '10 to Jun '14)
