@@ -27,13 +27,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-*Communicator* - Customer service and being an account manager have solidified my written and verbal communication skills   
-*Adaptable* - Problems provide opportunities to gain a better understanding of what I do not know  
-*Team-player* - As an avid hockey player I love to lead or be led, I was previously Chairman of our University team for 2 years  
-*Creative* - With an advertising degree and marketing background I have found there is always another way to solve a problem   
-*Energetic* - I do not class myself as a morning person or a night owl, more both! I rarely have days where I am too tired to do much  
-*Enthusiastic* - I love to take on new challenges whatever they may be and where they are   
-*Attentive* - Read it backwards to make sure there are no errors  
+***Communicator*** - Customer service and being an account manager have solidified my written and verbal communication skills  
+
+***Adaptable*** - Problems provide opportunities to gain a better understanding of what I do not know  
+
+***Team-player*** - As an avid hockey player I love to lead or be led, I was previously Chairman of our University team for 2 years  
+
+***Creative*** - With an advertising degree and marketing background I have found there is always another way to solve a problem   
+
+***Energetic*** - I do not class myself as a morning person or a night owl, more both! I rarely have days where I am too tired to do much  
+
+***Enthusiastic*** - I love to take on new challenges whatever they may be and where they are   
+
+***Attentive*** - Read it backwards to make sure there are no errors  
 
 ## Projects
 Project | Description | Timeframe | Technologies | Testing
