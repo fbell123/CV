@@ -35,6 +35,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Enthusiastic* - I love to take on new challenges whatever they may be and where they are   
 *Attentive* - Read it backwards to make sure there are no errors  
 
+## Projects
+Project | Description | Timeframe | Technologies | Testing
+------------- | ----------- | --------------------- | ------------ | -------
+
 ## Education
 
 #### Makers Academy (Sept '16 to Dec '16)
