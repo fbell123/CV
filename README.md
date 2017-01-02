@@ -47,6 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Project | Description | Technologies | Testing
 ------------- | ----------- | ------------ | -------
 [Haysta:k](https://github.com/fbell123/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery | Jasmine |
+[enesemble](https://github.com/ensemble-team/ensemble) | A platform for music collaboration | Rails, CSS, HTML | RSpec, Factory Girl |
 
 ## Education
 
@@ -77,8 +78,8 @@ Project | Description | Technologies | Testing
 
 ## Interests
 
-**Hockey** Fanatic and currently play for Richmond HC
-**Charity Work** Raising money or helping out at events
-**Rugby** Quins fan, split national loyalty between England and Scotland
-**Skiing** Snow snow snow
-**Cycling** Both road and mountain
+**Hockey** Fanatic and currently play for Richmond HC  
+**Charity Work** Raising money or helping out at events  
+**Rugby** Quins fan, split national loyalty between England and Scotland  
+**Skiing** Snow snow snow  
+**Cycling** Both road and mountain  
