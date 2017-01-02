@@ -2,13 +2,9 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I am an enthusiastic and outgoing full stack junior developer.
-
+I am an enthusiastic and outgoing full stack junior developer.  
 
 I'm looking for a role in which I can delve deeper into expanding my coding knowledge, learn new languages and create fully functional, tested and beautifully designed programmes which are reusable and expansive.
-
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
@@ -46,8 +42,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Projects
 Project | Description | Technologies | Testing
 ------------- | ----------- | ------------ | -------
-[Haysta:k](https://github.com/fbell123/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery | Jasmine |
-[enesemble](https://github.com/ensemble-team/ensemble) | A platform for music collaboration | Rails, CSS, HTML | RSpec, Factory Girl |
+[Haysta:k](https://github.com/fbell123/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery, CSS | Jasmine |
+[Enesemble](https://github.com/ensemble-team/ensemble) | A platform for music collaboration | Rails, CSS, HTML | RSpec, Factory Girl |
 
 ## Education
 
