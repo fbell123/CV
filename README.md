@@ -2,9 +2,11 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I am an enthusiastic and outgoing full stack junior developer.  
+Frankie here - developer, hockey(field) enthusiast and food fanatic.
 
-I'm looking for a role in which I can delve deeper into expanding my coding knowledge, learn new languages and create fully functional, tested and beautifully designed programmes which are reusable and expansive.
+I graduated university with a first class hons in Advertising & Brand Management and followed the path of account management, working for a marketing firm. I got involved with the business analysis of the company which led to working with the in-house developer more closely and from there my love for coding began and has flourished since joining Makers Academy in August 2016.
+
+Having graduated the 16 week intensive bootcamp at Makers, I am looking for a **Junior Full Stack Developer** role in which I can delve deeper into expanding my coding knowledge, learn new languages and create fully functional, tested and beautifully designed programmes which are reusable and expansive, as well as being able to work alongside others who are also passionate about technology.
 
 ## Skills
 
@@ -33,7 +35,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ***Creative*** - With an advertising degree and marketing background I have found there is always another way to solve a problem   
 
-***Energetic*** - I do not class myself as a morning person or a night owl, more both! I rarely have days where I am too tired to do much  
+***Energetic*** - I do not class myself as a morning person or a night owl, more both!
 
 ***Enthusiastic*** - I love to take on new challenges whatever they may be and where they are   
 
@@ -47,7 +49,7 @@ Project | Description | Technologies | Testing
 
 ## Education
 
-#### Makers Academy (Sept '16 to Dec '16)
+#### Makers Academy (Aug '16 to Dec '16)
 
 - XP Values
 - Agile Movement
@@ -74,7 +76,7 @@ Project | Description | Technologies | Testing
 
 ## Interests
 
-**Hockey** Fanatic and currently play for Richmond HC  
+**Hockey** Currently play for Richmond HC  
 **Charity Work** Raising money or helping out at events  
 **Rugby** Quins fan, split national loyalty between England and Scotland  
 **Skiing** Snow snow snow  
