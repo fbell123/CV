@@ -43,7 +43,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Project | Description | Technologies | Testing
 ------------- | ----------- | ------------ | -------
 [Haysta:k](https://github.com/fbell123/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery, CSS | Jasmine |
-[Enesemble](https://github.com/ensemble-team/ensemble) | A platform for music collaboration | Rails, CSS, HTML | RSpec, Factory Girl |
+[Enesemble](https://github.com/ensemble-team/ensemble) | A platform for music collaboration | Rails, CSS, HTML, Postgres, JS | RSpec, Factory Girl |
 
 ## Education
 
