@@ -59,7 +59,7 @@ Project | Description | Technologies | Testing
 - Independent learner and problem-solver
 - OOP, TDD, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, JQuery, Ajax, CSS, HTML, SQL
+- Ruby, Rails, Javascript, JQuery, Ajax, CSS, HTML, SQL, Java, Swift
 - Rspec, Jasmine, Mocha
 
 #### Staffordshire University (Sept '10 to Jun '14)
