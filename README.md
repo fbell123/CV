@@ -44,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Projects
 Project | Description | Technologies | Testing
 ------------- | ----------- | ------------ | -------
-[Enesemble](https://github.com/ensemble-team/ensemble) | A platform for music collaboration | Rails, CSS, HTML, Postgres, JS | RSpec, Factory Girl, Capybara |
+[Ensemble](https://github.com/ensemble-team/ensemble) | A platform for music collaboration | Rails, CSS, HTML, Postgres, JS | RSpec, Factory Girl, Capybara |
 [Haysta:k](https://github.com/fbell123/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery, CSS | Jasmine |
 [MakersBnB](https://github.com/fbell123/makers-bnb) | A clone of Air BnB | Rails, CSS, HTML, | RSpec, Capybara |
 
